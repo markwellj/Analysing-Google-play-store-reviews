@@ -1,4 +1,4 @@
-# Analysing-Google-play-store-reviews
+# Google Play Review Analysis
 
 **Graduate School Project**
 
